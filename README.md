@@ -1,3 +1,3 @@
 # hello-world
-practice repository
-Proficient in HTML, CSS, and JavaScript
+Hello World Test Repository
+This is the first repository I made using GitHub!
